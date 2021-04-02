@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Версия ядра"
-uname -r
+echo "Тип ядра"
+uname
 echo "ОС"
 lsb_release -a
